@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-es6",
+  "version": "1.0.0",
+  "description": "Introduction to ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falcon24092/intro-to-es6.git"
+  },
+  "author": "Bank Thongchai Chaimasereekul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falcon24092/intro-to-es6/issues"
+  },
+  "homepage": "https://github.com/falcon24092/intro-to-es6#readme"
+}
