@@ -1,2 +1,4 @@
-export const getGithubProfile = () => 
-    fetch('https://api.github.com/users/falcon24092')
+    const getGithubProfile = () => 
+        fetch('https://api.github.com/users/falcon24092')
+
+    export default getGithubProfile
